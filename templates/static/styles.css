@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+.card {
+    margin-top: 50px;
+    max-width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+.btn-action {
+    margin-right: 5px;
+}
+.form-control {
+    margin-bottom: 15px;
+}
+.card-footer {
+    text-align: center;
+}
